@@ -5,7 +5,7 @@ def main():
   """Contains the website and api key information."""
   #Define base url and api key.
   base_url = "https://api.openweathermap.org/data/2.5/weather"
-  appid = "20bcca3aa15d58ab4d96b64e511e6328"
+  appid = ""
   #Create a while loop for application to keep running.
   #Get the city name from the user. 
   while True:
